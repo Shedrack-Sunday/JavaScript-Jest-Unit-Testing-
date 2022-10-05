@@ -1,0 +1,23 @@
+{
+  "name": "javascript-jest-unit-testing-",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shedrack-Sunday/JavaScript-Jest-Unit-Testing-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shedrack-Sunday/JavaScript-Jest-Unit-Testing-/issues"
+  },
+  "homepage": "https://github.com/Shedrack-Sunday/JavaScript-Jest-Unit-Testing-#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
